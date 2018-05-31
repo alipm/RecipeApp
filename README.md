@@ -12,4 +12,4 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
 
 and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-https://github.com/alipm/RecipeApp/blob/master/app/src/main/res/drawable/ic_launcher_background.xml
+https://github.com/alipm/RecipeApp/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png
