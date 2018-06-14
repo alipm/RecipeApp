@@ -3,4 +3,17 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="black">#000</color>
+    <color name="white">#ffff</color>
+
+    <color name="light_dark">#f2f0f0</color>
+    <color name="title">#222222</color>
+
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+
+    <color name="page_indicator_default_color">#4c4c4c</color>
+    <color name="page_indicator_selected_color">#dc3131</color>
+
 </resources>
